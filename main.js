@@ -20,4 +20,4 @@ const addNumber=(num,callback,callback2)=>{
     callback2();
    },1500)
 }
-addNumber(100,printNumber,workdone)
+addNumber(100,printNumber,workdone);
